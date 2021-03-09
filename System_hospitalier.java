@@ -33,6 +33,7 @@ public class System_hospitalier {
 		System.out.println(comparaisonDonnees);
 	}
 	
+	
 	private String analyserRequete(Requête requête) {
 		// Analyser la requête
 		return "requête analysée";
@@ -44,3 +45,4 @@ public class System_hospitalier {
 	}
 
 }
+/* Ces deux méthodes analysent les données et comparent les comparent les données des utilisateurs en ultilisant celles déja existantes.*/
